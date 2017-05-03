@@ -12,7 +12,7 @@ This is a ReactJS app that follows the Udemy course on https://www.udemy.com/the
 + npm 3.3.0
 
 ## Modules
-+ "express": "4.15.2"
++ express 4.15.2
 
 ## How to run
 
