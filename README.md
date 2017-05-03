@@ -18,9 +18,13 @@ This is a ReactJS app that follows the Udemy course on https://www.udemy.com/the
 
 + Clone the project
 + Install the dependencies, on the project directory run:
-```npm install```
+```bash
+npm install
+```
 + Run the node server, on the project directory run:
-```node server.js```
+```bash
+node server.js
+```
 
 ## License
 HelloReact is released under the MIT license.
