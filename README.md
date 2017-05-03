@@ -17,11 +17,11 @@ This is a ReactJS app that follows the Udemy course on https://www.udemy.com/the
 ## How to run
 
 + Clone the project
-+ Install the dependencies, on the project directory run:
++ Install the dependencies, on the project directory execute:
 ```bash
 npm install
 ```
-+ Run the node server, on the project directory run:
++ Run the node server, on the project directory execute:
 ```bash
 node server.js
 ```
