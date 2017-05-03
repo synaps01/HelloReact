@@ -25,6 +25,11 @@ npm install
 ```bash
 node server.js
 ```
++ Go to a web browser and use the url:
+```
+localhost:3000
+```
+
 
 ## License
 HelloReact is released under the MIT license.
